@@ -7,11 +7,14 @@ Generally, the underlying technology is blockchain. Which is a replacing the sto
 - What are smart contracts?
 - What are NFTs?
 
-# Resource to learn how to build
+### Resource to learn how to build
 - How to build a ledger
-- 
+- TBD
 
 
-What can blockchain replace?
+### What can blockchain replace?
 - Banks
 - Government storage of identity
+
+### Problems in the space to achieve consumer adoption
+TBD
